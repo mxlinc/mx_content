@@ -7,3 +7,13 @@ Updated 105005 Q-5005 - Product with Specific Sum or Difference at August 12, 20
 Updated 105006 Q-5006 - Product with Specific Sum or Difference at August 12, 2025 at 12:31 PM
 Updated 105007 Q-5007 - Product with Specific Sum or Difference at August 12, 2025 at 12:31 PM
 Updated 105008 Q-5008 - Product with Specific Sum or Difference at August 12, 2025 at 12:31 PM
+Updated 105000 Q-5000 - Integer Multiplication Max Min at August 14, 2025 at 08:11 PM
+Updated 105001 Q-5001 - Integer Multiplication Max Min at August 14, 2025 at 08:11 PM
+Updated 105002 Q-5002 - Integer Multiplication Expression Sign at August 14, 2025 at 08:11 PM
+Updated 105003 Q-5003 - Integer Multiplication Expression Sign at August 14, 2025 at 08:11 PM
+Updated 105004 W-5004 - Integer Multiplication Division at August 14, 2025 at 08:11 PM | Generated link: https://mxlinc.github.io/mx_content/Algebra/Integer%20Multiplication%20Division.pdf
+Updated 105005 Q-5005 - Product with Specific Sum or Difference at August 14, 2025 at 08:11 PM
+Updated 105006 Q-5006 - Product with Specific Sum or Difference at August 14, 2025 at 08:11 PM
+Updated 105007 Q-5007 - Product with Specific Sum or Difference at August 14, 2025 at 08:11 PM
+Updated 105008 Q-5008 - Product with Specific Sum or Difference at August 14, 2025 at 08:11 PM
+Inserted 105009 W-5009 - Factoring Difference of Squares at August 14, 2025 at 08:11 PM | Generated link: https://mxlinc.github.io/mx_content/Algebra/Factoring%20Difference%20of%20Squares.pdf
